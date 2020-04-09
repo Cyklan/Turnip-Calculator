@@ -7,7 +7,8 @@ const Title = () => {
   return (
     <Box mt={4} mb={2}>
       <Typography variant="h3" color="textPrimary">
-        {t("ACNH Turnip Calculator")}
+        {/* {t("ACNH Turnip Calculator")} */}
+        R&uuml;benSTONKS
       </Typography>
     </Box>
   );

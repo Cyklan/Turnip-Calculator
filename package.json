@@ -51,5 +51,6 @@
     "react-use": "^14.0.0",
     "utils": "^0.3.1"
   },
-  "prettier": {}
+  "prettier": {},
+  "homepage": "."
 }
